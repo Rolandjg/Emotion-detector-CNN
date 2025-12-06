@@ -2,7 +2,7 @@
 
 ### Setup
 ```bash
-git clone https://github.com/Rolandjg/Emotion-detector-CNN/edit/main/README.md
+git clone https://github.com/Rolandjg/Emotion-detector-CNN
 cd Emotion-detector-CNN
 python3 -m venv venv
 source venv/bin/activate
